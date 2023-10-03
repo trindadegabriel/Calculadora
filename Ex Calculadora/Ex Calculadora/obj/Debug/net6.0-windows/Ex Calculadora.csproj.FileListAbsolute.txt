@@ -1,0 +1,17 @@
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.csproj.AssemblyReference.cache
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex_Calculadora.Form1.resources
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.csproj.GenerateResource.cache
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.AssemblyInfoInputs.cache
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.AssemblyInfo.cs
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\Ex Calculadora.exe
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\Ex Calculadora.deps.json
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\Ex Calculadora.runtimeconfig.json
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\Ex Calculadora.dll
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\ref\Ex Calculadora.dll
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\bin\Debug\net6.0-windows\Ex Calculadora.pdb
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.dll
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\ref\Ex Calculadora.dll
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.pdb
+C:\Users\trindadegab\source\repos\Ex Calculadora\Ex Calculadora\obj\Debug\net6.0-windows\Ex Calculadora.genruntimeconfig.cache
